@@ -22,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
