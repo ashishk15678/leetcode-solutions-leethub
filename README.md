@@ -26,16 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
