@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0404-sum-of-left-leaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
