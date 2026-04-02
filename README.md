@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+## Matrix
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ashishk15678/leetcode-solutions-leethub/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 <!---LeetCode Topics End-->
